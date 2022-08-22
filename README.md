@@ -22,12 +22,12 @@ Wrote a macro to loop through all the tickers, and calculated total daily volume
 
   * Stocks performed well in 2017 compared to 2018, with only 1 stock yielding negative returns (TERP (-7.2%)). DQ returned almost 200% returns in 2017 ans SPWR has recorded largest daily volume in 2017
 
-  ![Alt text](stock-analysis/2017 Stock Analysis.png)
+  ![Alt text](2017%20Stock%20Analysis.png)
 
 
   * RUN has yielded 84% returns in 2018 and highest daily colume was recorded for ENPH
 
-  ![Alt text](stock-analysis/2018 Stock Analysis.png)
+  ![Alt text](2018%20Stock%20Analysis.png)
 
 
 ## Summary
