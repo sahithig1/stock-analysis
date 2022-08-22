@@ -34,7 +34,7 @@ Wrote a macro to loop through all the tickers, and calculated total daily volume
 
   ### Refactoring code in general
 
-    General refactoring coule help in understanding the concepts for beginners, but this is a tedious process and error prone as there is a manual intervention. The developer has to be diligent to apply refactoring to all branches of code and debugging could take a lot of time to figure out small issues.
+General refactoring could help in understanding the concepts for beginners, but this is a tedious process and error prone as there is a manual intervention. The developer has to be diligent to apply refactoring to all branches of code and debugging could take a lot of time to figure out small issues.
 
   ### Refactoring code in VBA
 
